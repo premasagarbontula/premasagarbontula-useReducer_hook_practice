@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-decoration: underline;
+}
+.post {
+  font-size: 30px;
+  color: greenyellow;
+}
+.error_msg {
+  font-size: 35px;
+  color: red;
+}
+button {
+  font-size: 20px;
+  padding: 5px;
+}
